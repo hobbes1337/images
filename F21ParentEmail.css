@@ -1,0 +1,1229 @@
+.mediaViewInfo {
+	--web-view-name: custom – 1;
+	--web-view-id: custom__1;
+	--web-enable-deep-linking: true;
+	--web-page-font: arial, sans-serif;
+}
+:root {
+	--web-view-ids: custom__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+#custom__1 {
+	position: absolute;
+	width: 650px;
+	height: 4849px;
+	font-family: arial, sans-serif;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: custom – 1;
+	--web-view-id: custom__1;
+	--web-enable-deep-linking: true;
+	--web-page-font: arial, sans-serif;
+}
+#Rectangle_714 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_714 {
+	position: absolute;
+	overflow: visible;
+	width: 650px;
+	height: 433px;
+	left: 0px;
+	top: 4416px;
+}
+#Group_308 {
+	position: absolute;
+	width: 671.19px;
+	height: 291.905px;
+	left: -10.783px;
+	top: 3904.094px;
+	overflow: visible;
+}
+#Path_231 {
+	fill: rgba(4,58,86,1);
+}
+.Path_231 {
+	overflow: visible;
+	position: absolute;
+	width: 671.19px;
+	height: 291.905px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_307 {
+	opacity: 0.465;
+	position: absolute;
+	width: 650px;
+	height: 464.701px;
+	left: 0px;
+	top: 2263px;
+	overflow: visible;
+}
+#Path_231_k {
+	fill: rgba(226,248,255,1);
+}
+.Path_231_k {
+	overflow: visible;
+	position: absolute;
+	width: 650px;
+	height: 464.701px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#The_New_Yorker_attributed_Verm {
+	left: 60px;
+	top: 1450.682px;
+	position: absolute;
+	overflow: visible;
+	width: 227.006px;
+	height: 108.2947998046875px;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Lato, arial, sans-serif;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#The_2021_Princeton_Review_rank {
+	left: 60px;
+	top: 1689.682px;
+	position: absolute;
+	overflow: visible;
+	width: 227.006px;
+	height: 103.2947998046875px;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 650px;
+	height: 745.045px;
+	left: 0px;
+	top: 566px;
+	overflow: visible;
+}
+#Path_231_o {
+	fill: rgba(244,244,244,1);
+}
+.Path_231_o {
+	overflow: visible;
+	position: absolute;
+	width: 650px;
+	height: 745.045px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Champlain_College_is_a_small_c {
+	left: 68px;
+	top: 721.682px;
+	position: absolute;
+	overflow: visible;
+	width: 535.006px;
+	height: 635.2947998046875px;
+	line-height: 26px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#Accolades-Thumbnail {
+	position: absolute;
+	width: 650px;
+	height: 366px;
+	left: 0px;
+	top: 200px;
+	overflow: visible;
+}
+#THE_SAFEST {
+	left: 60px;
+	top: 1369px;
+	position: absolute;
+	overflow: visible;
+	width: 240px;
+	height: 55px;
+	line-height: 70px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Lato, arial, sans-serif;
+	font-style: bold;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(35,31,32,1);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(204,204,204,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 226px;
+	height: 1px;
+	left: 60px;
+	top: 1431px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_ {
+	left: 368px;
+	top: 1369px;
+	position: absolute;
+	overflow: hidden;
+	width: 193px;
+	height: 55px;
+	line-height: 70px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Lato, arial, sans-serif;
+	font-style: bold;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,157,209,1);
+}
+#Burlington_Vermont_our_hometow {
+	left: 368px;
+	top: 1450.682px;
+	position: absolute;
+	overflow: visible;
+	width: 237.006px;
+	height: 108.2947998046875px;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(204,204,204,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 226px;
+	height: 1px;
+	left: 368px;
+	top: 1431px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#THE_BEST {
+	left: 60px;
+	top: 1608px;
+	position: absolute;
+	overflow: hidden;
+	width: 235px;
+	height: 55px;
+	line-height: 70px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Lato, arial, sans-serif;
+	font-style: bold;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(204,204,204,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 226px;
+	height: 1px;
+	left: 60px;
+	top: 1670px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#THE_MOST {
+	left: 368px;
+	top: 1608px;
+	position: absolute;
+	overflow: hidden;
+	width: 227px;
+	height: 55px;
+	line-height: 70px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Lato, arial, sans-serif;
+	font-style: bold;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Champlain_was_named_a_Most_Inn {
+	left: 368px;
+	top: 1689.682px;
+	position: absolute;
+	overflow: visible;
+	width: 237.006px;
+	height: 103.2947998046875px;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Line_4 {
+	fill: transparent;
+	stroke: rgba(204,204,204,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 226px;
+	height: 1px;
+	left: 368px;
+	top: 1670px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_232 {
+	fill: rgba(45,114,166,1);
+}
+.Path_232 {
+	overflow: visible;
+	position: absolute;
+	width: 281.672px;
+	height: 46px;
+	left: 182.328px;
+	top: 1206px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Apply_TO_Champlain_College {
+	left: 201px;
+	top: 1219px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Group_1 {
+	position: absolute;
+	width: 100.751px;
+	height: 58.5px;
+	left: 287.249px;
+	top: 353.5px;
+	overflow: visible;
+}
+#Rectangle_713 {
+	opacity: 0.8;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_713 {
+	position: absolute;
+	overflow: visible;
+	width: 100.751px;
+	height: 58.5px;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_1 {
+	fill: rgba(255,255,255,1);
+}
+.Polygon_1 {
+	overflow: visible;
+	position: absolute;
+	width: 27.625px;
+	height: 22.75px;
+	transform: translate(-66px, -2576px) matrix(1,0,0,1,102.5628,2593.8753) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#When_so_many_things_are_uncert {
+	left: 61px;
+	top: 610.682px;
+	position: absolute;
+	overflow: hidden;
+	width: 535.006px;
+	height: 97.2947998046875px;
+	line-height: 45px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+#Screen_Shot_2021-01-26_at_5493 {
+	position: absolute;
+	width: 650px;
+	height: 237px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_309 {
+	position: absolute;
+	width: 230px;
+	height: 46px;
+	left: 200px;
+	top: 1836px;
+	overflow: visible;
+}
+#Rectangle_715 {
+	fill: rgba(255,255,255,0.043);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_715 {
+	position: absolute;
+	overflow: visible;
+	width: 230px;
+	height: 46px;
+	left: 0px;
+	top: 0px;
+}
+#See_More_accolades {
+	left: 28px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 175px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+}
+#Screen_Shot_2021-01-27_at_7310 {
+	position: absolute;
+	width: 325px;
+	height: 392px;
+	left: 0px;
+	top: 2728px;
+	overflow: visible;
+}
+#Students_tell_us_that_our_uniq {
+	opacity: 0.849;
+	left: 369px;
+	top: 2831.682px;
+	position: absolute;
+	overflow: visible;
+	width: 237.006px;
+	height: 330.2947998046875px;
+	line-height: 22px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#Learn_What_You_Love {
+	left: 369px;
+	top: 2790px;
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#Screen_Shot_2021-01-27_at_7320 {
+	position: absolute;
+	width: 325px;
+	height: 392px;
+	left: 325px;
+	top: 3120px;
+	overflow: visible;
+}
+#Group_310 {
+	position: absolute;
+	width: 127px;
+	height: 34px;
+	left: 369px;
+	top: 3027px;
+	overflow: visible;
+}
+#Rectangle_716 {
+	fill: rgba(255,255,255,0.043);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_716 {
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#Learn_MOre {
+	left: 19px;
+	top: 8px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+}
+#Small_class_sizes_and_an_empha {
+	opacity: 0.85;
+	left: 50px;
+	top: 3258.682px;
+	position: absolute;
+	overflow: visible;
+	width: 237.006px;
+	height: 330.2947998046875px;
+	line-height: 22px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#Career-Focused_Majors {
+	left: 50px;
+	top: 3219px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#Group_311 {
+	position: absolute;
+	width: 157px;
+	height: 34px;
+	left: 50px;
+	top: 3390px;
+	overflow: visible;
+}
+#Rectangle_717 {
+	fill: rgba(255,255,255,0.043);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_717 {
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#Explore_Majors {
+	left: 18px;
+	top: 8px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+}
+#Champlain_was_everything_I_had {
+	left: 39.577px;
+	top: 2372.428px;
+	position: absolute;
+	overflow: hidden;
+	width: 572.674px;
+	height: 234.86427307128906px;
+	line-height: 42px;
+	margin-top: -8.5px;
+	text-align: center;
+	font-family: Archer, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Text {
+	left: 302.971px;
+	top: 2300px;
+	position: absolute;
+	overflow: hidden;
+	width: 56.05px;
+	height: 48px;
+	text-align: left;
+	font-family: Archer, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 90px;
+	color: rgba(0,157,209,1);
+}
+#Text_bp {
+	left: 302.971px;
+	top: 2572.435px;
+	position: absolute;
+	overflow: hidden;
+	width: 56.05px;
+	height: 48px;
+	text-align: left;
+	font-family: Archer, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 90px;
+	color: rgba(0,157,209,1);
+}
+#ROGER_CASTILLO__FILMMAKING_ {
+	left: 181.861px;
+	top: 2642.251px;
+	position: absolute;
+	overflow: hidden;
+	width: 283.873px;
+	height: 32.18315124511719px;
+	line-height: 36px;
+	margin-top: -10.5px;
+	text-align: center;
+	font-family: Avenir, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#VistaRoom21 {
+	position: absolute;
+	width: 650px;
+	height: 372px;
+	left: 0px;
+	top: 1931px;
+	overflow: visible;
+}
+#RB-2017-1020-53_1 {
+	position: absolute;
+	width: 325px;
+	height: 392px;
+	left: 0px;
+	top: 3512px;
+	overflow: visible;
+}
+#Students_represent_a_quarter_o {
+	opacity: 0.849;
+	left: 369px;
+	top: 3615.682px;
+	position: absolute;
+	overflow: visible;
+	width: 237.006px;
+	height: 330.2947998046875px;
+	line-height: 22px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#Beautiful_Burlington {
+	left: 369px;
+	top: 3574px;
+	position: absolute;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#Group_312 {
+	position: absolute;
+	width: 193px;
+	height: 34px;
+	left: 369px;
+	top: 3809px;
+	overflow: visible;
+}
+#Rectangle_718 {
+	fill: rgba(255,255,255,0.043);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_718 {
+	position: absolute;
+	overflow: visible;
+	width: 193px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#EXPLORE_BURLINGTON {
+	left: 20px;
+	top: 8px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+}
+#Path_197 {
+	fill: rgba(225,248,255,1);
+}
+.Path_197 {
+	overflow: visible;
+	position: absolute;
+	width: 1680px;
+	height: 226px;
+	left: -515px;
+	top: 4196px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Stay_Connected {
+	left: 105px;
+	top: 4260.621px;
+	position: absolute;
+	overflow: visible;
+	width: 441px;
+	height: 59px;
+	text-align: center;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(35,31,32,1);
+}
+#Group_3 {
+	position: absolute;
+	width: 302.066px;
+	height: 26.192px;
+	left: 158.967px;
+	top: 4319.621px;
+	overflow: visible;
+}
+#twitter {
+	position: absolute;
+	width: 25.801px;
+	height: 20.955px;
+	left: 109.513px;
+	top: 3.022px;
+	overflow: visible;
+}
+#Group_256 {
+	position: absolute;
+	width: 25.801px;
+	height: 20.955px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_92 {
+	fill: rgba(35,31,32,1);
+}
+.Path_92 {
+	overflow: visible;
+	position: absolute;
+	width: 25.801px;
+	height: 20.956px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#vimeo-square {
+	position: absolute;
+	width: 25.801px;
+	height: 25.802px;
+	left: 276.264px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_263 {
+	position: absolute;
+	width: 25.801px;
+	height: 25.802px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_99 {
+	fill: rgba(35,31,32,1);
+}
+.Path_99 {
+	overflow: visible;
+	position: absolute;
+	width: 25.801px;
+	height: 25.801px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#facebook {
+	position: absolute;
+	width: 25.801px;
+	height: 25.801px;
+	left: 55.164px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_257 {
+	position: absolute;
+	width: 25.801px;
+	height: 25.801px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_93 {
+	fill: rgba(35,31,32,1);
+}
+.Path_93 {
+	overflow: visible;
+	position: absolute;
+	width: 25.801px;
+	height: 25.801px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#youtube-square {
+	position: absolute;
+	width: 25.801px;
+	height: 25.801px;
+	left: 220.599px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_264 {
+	position: absolute;
+	width: 25.801px;
+	height: 25.801px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_100 {
+	fill: rgba(35,31,32,1);
+}
+.Path_100 {
+	overflow: visible;
+	position: absolute;
+	width: 25.801px;
+	height: 25.801px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#linkedin-in {
+	position: absolute;
+	width: 25.801px;
+	height: 25.796px;
+	left: 164.862px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_258 {
+	position: absolute;
+	width: 25.801px;
+	height: 25.796px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_94 {
+	fill: rgba(35,31,32,1);
+}
+.Path_94 {
+	overflow: visible;
+	position: absolute;
+	width: 25.801px;
+	height: 25.796px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#instagram {
+	position: absolute;
+	width: 25.19px;
+	height: 25.184px;
+	left: 0px;
+	top: 1.008px;
+	overflow: visible;
+}
+#Group_306 {
+	position: absolute;
+	width: 25.19px;
+	height: 25.184px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_119 {
+	fill: rgba(35,31,32,1);
+}
+.Path_119 {
+	overflow: visible;
+	position: absolute;
+	width: 25.19px;
+	height: 25.184px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Founded_in_1878_Champlain_Coll {
+	left: 72px;
+	top: 4564px;
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	height: 255px;
+	text-align: left;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#motto_white_1 {
+	position: absolute;
+	width: 194px;
+	height: 59px;
+	left: 72px;
+	top: 4476px;
+	overflow: visible;
+}
+#This_may_be_the_college_you_wi {
+	left: 58px;
+	top: 3985.682px;
+	position: absolute;
+	overflow: visible;
+	width: 535.006px;
+	height: 148.2947998046875px;
+	line-height: 35px;
+	margin-top: -6.5px;
+	text-align: center;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#Group_313 {
+	position: absolute;
+	width: 286px;
+	height: 46px;
+	left: 182px;
+	top: 4060px;
+	overflow: visible;
+}
+#Rectangle_719 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_719 {
+	position: absolute;
+	overflow: visible;
+	width: 286px;
+	height: 46px;
+	left: 0px;
+	top: 0px;
+}
+#Apply_to_Champlain_College {
+	left: 22px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 247px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Group_314 {
+	position: absolute;
+	width: 193px;
+	height: 51px;
+	left: 386px;
+	top: 4564px;
+	overflow: visible;
+}
+#Rectangle_720 {
+	fill: rgba(52,52,52,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_720 {
+	position: absolute;
+	overflow: visible;
+	width: 193px;
+	height: 51px;
+	left: 0px;
+	top: 0px;
+}
+#Request_more_inFo {
+	left: 24px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Lato, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Rectangle_721 {
+	fill: transparent;
+}
+.Rectangle_721 {
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	height: 24px;
+	left: 14px;
+	top: 12px;
+}
+#Rectangle_722 {
+	fill: transparent;
+}
+.Rectangle_722 {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 20px;
+	left: 574px;
+	top: 12px;
+}
+#Rectangle_723 {
+	fill: transparent;
+}
+.Rectangle_723 {
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 31px;
+	left: 174px;
+	top: 80px;
+}
+#Rectangle_724 {
+	fill: transparent;
+}
+.Rectangle_724 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 22px;
+	left: 134px;
+	top: 134px;
+}
+#Rectangle_725 {
+	fill: transparent;
+}
+.Rectangle_725 {
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	height: 19px;
+	left: 206px;
+	top: 134px;
+}
+#Rectangle_726 {
+	fill: transparent;
+}
+.Rectangle_726 {
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 22px;
+	left: 305px;
+	top: 134px;
+}
+#Rectangle_727 {
+	fill: transparent;
+}
+.Rectangle_727 {
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	height: 22px;
+	left: 409px;
+	top: 134px;
+}
+#Rectangle_728 {
+	fill: transparent;
+}
+.Rectangle_728 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 153px;
+	top: 4317px;
+}
+#Rectangle_729 {
+	fill: transparent;
+}
+.Rectangle_729 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 210px;
+	top: 4317px;
+}
+#Rectangle_730 {
+	fill: transparent;
+}
+.Rectangle_730 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 267px;
+	top: 4317px;
+}
+#Rectangle_731 {
+	fill: transparent;
+}
+.Rectangle_731 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 324px;
+	top: 4317px;
+}
+#Rectangle_732 {
+	fill: transparent;
+}
+.Rectangle_732 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 378px;
+	top: 4317px;
+}
+#Rectangle_733 {
+	fill: transparent;
+}
+.Rectangle_733 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 432px;
+	top: 4317px;
+}
